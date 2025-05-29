@@ -1,6 +1,6 @@
 # Offline-First Flutter App with Supabase and Brick 🧱📱
 
-This was my **first attempt** at building an **offline-first app** using **Flutter**, **Supabase**, and the **Brick** library.
+This was my **first attempt** at building an **offline app** using **Flutter**, **Supabase**, and the **Brick** library.
 
 ## 🚀 What I Tried
 
